@@ -52,13 +52,14 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I <mark>like science </mark> and I also develop software, [this](https://vadim01j12feradim.github.io/COMPILE/) is my <mark>compiler</mark> 
+  I <mark>like science</mark> and I also develop software, [this](https://vadim01j12feradim.github.io/COMPILE/) is my <mark>compiler</mark> 
 
   made by me and this is my <mark>Artificial Intelligence project</mark> see the project [here](https://github.com/Vadim01j12feradim/Hadns-ons-IA.git).
 
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+  The pro programming languages ​​that I have used are here:
+    - Java
+    - PHP
+    - <a href="google.com">PYTHON</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
