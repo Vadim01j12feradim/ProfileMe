@@ -82,7 +82,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Compiler
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: https://vadim01j12feradim.github.io/COMPILE/
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -91,9 +91,9 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Compiler made on WEBSITE, generates assembly code for Linux, the language is type C
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          El proyecto utiliza lenguaje C, ensamblador, JAVASCRIPT, HTML, CSS y SHELL, el código ensamblador generado se ejecuta en Linux.
   - title: Experience
     layout: list
     content:
