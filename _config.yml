@@ -93,7 +93,7 @@ content:
         quote: >
           Compiler made on WEBSITE, generates assembly code for Linux, the language is type C
         description: | # this will include new lines to allow paragraphs
-          El proyecto utiliza lenguaje C, ensamblador, JAVASCRIPT, HTML, CSS y SHELL, el código ensamblador generado se ejecuta en Linux.
+          The project uses C language, assembler, JAVASCRIPT, HTML, CSS and SHELL, the generated assembler code <mark>runs on Linux</mark>.
   - title: Experience
     layout: list
     content:
